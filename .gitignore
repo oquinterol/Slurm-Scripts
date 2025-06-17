@@ -1,0 +1,47 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de backup y temporales
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Salidas de SLURM
+slurm-*.out
+slurm-*.err
+
+# Archivos de log
+*.log
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Otros archivos ocultos
+*.local
+*.secret
+
+# Archivos de resultados o datos generados
+output/
+results/
+data/
+*.csv
+*.tsv
+*.dat
+*.out
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+*.tar
+*.gz
+*.bz2
+*.7z
