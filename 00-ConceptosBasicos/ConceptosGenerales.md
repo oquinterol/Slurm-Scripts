@@ -2,7 +2,9 @@
 
 Slurm es un sistema de gestión de recursos y planificación de trabajos (workload manager) ampliamente utilizado en entornos de computación de alto rendimiento (HPC). Permite a los usuarios enviar, controlar y monitorear trabajos en un clúster de computadoras.
 
-![Slurm Logo](https://storage.googleapis.com/gweb-cloudblog-publish/images/slurm-2r8eb.max-400x400.PNG)
+<div align="center">
+    <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/slurm-2r8eb.max-400x400.PNG" alt="Slurm Logo" width="200"/>
+</div>
 
 ## ¿Qué deberías saber?
 - **Clúster**: Un conjunto de nodos interconectados que trabajan juntos como un único sistema para ejecutar aplicaciones en paralelo. Los clústeres HPC (High-Performance Computing) están diseñados para ofrecer un alto rendimiento en tareas computacionalmente intensivas.
